@@ -3,8 +3,8 @@
 The map is hosted by GitHub and can be found at https://douglasmbura.github.io/Quilombo-R-Map/
 
 **CREDITS**
-The Visibilidade Application with R and Google Basemaps  was Developed by **Douglas Mbura (Kenya)** and **Rasha Elnimiery (Sudan)** with support from **Diana Mastracci Sanchez, Geo Indigenous Alliance.
-**
+The Visibilidade Application with R and Google Basemaps  was Developed by **Douglas Mbura (Kenya)** and **Rasha Elnimiery (Sudan)** with support from **Diana Mastracci Sanchez, Geo Indigenous Alliance.**
+
 **Inspired by Code** for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause).
 
 **Adapted from**  from Google StoryMaps with Google Sheets code developed by Ilya Ilyankou and Jack Dougherty:https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html, which Uses a Google Sheets template.
